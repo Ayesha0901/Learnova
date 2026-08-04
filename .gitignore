@@ -1,0 +1,17 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Local configuration
+appsettings.Development.json
+
+# Environment files
+.env
