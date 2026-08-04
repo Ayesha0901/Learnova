@@ -7,8 +7,6 @@ obj/
 *.user
 *.suo
 
-# VS Code
-.vscode/
 
 # Local configuration
 appsettings.Development.json
